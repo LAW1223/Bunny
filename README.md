@@ -21,6 +21,12 @@ Bunny is a family of lightweight but powerful multimodal models. It offers multi
 ### HuggingFace transformers
 
 Here we show a code snippet to show you how to use [Bunny-v1.0-3B](https://huggingface.co/BAAI/Bunny-v1_0-3B) with HuggingFace transformers:
+Before running the snippet, you need to install the following dependencies:
+
+```shell
+pip install torch transformers accelerate pillow
+```
+Running Bunny-v1.0-3B
 
 ```python
 import torch
@@ -67,11 +73,6 @@ output_ids = model.generate(
 print(tokenizer.decode(output_ids[input_ids.shape[1]:], skip_special_tokens=True).strip())
 ```
 
-Before running the snippet, you need to install the following dependencies:
-
-```shell
-pip install torch transformers accelerate pillow
-```
 Running Bunny-v1.0-2B-zh is also simple.
 <details>
 <summary>Expand to see the snippet</summary>
