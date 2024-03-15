@@ -73,9 +73,8 @@ output_ids = model.generate(
 print(tokenizer.decode(output_ids[input_ids.shape[1]:], skip_special_tokens=True).strip())
 ```
 
-Running Bunny-v1.0-2B-zh is also simple.
 <details>
-<summary>Expand to see the snippet</summary>
+<summary>Running Bunny-v1.0-2B-zh</summary>
   
 ```python
 import torch
