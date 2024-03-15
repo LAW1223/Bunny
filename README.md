@@ -128,7 +128,7 @@ We advise users especially those in Chinese mainland to use ModelScope.
 `snapshot_download` can help you solve issues concerning downloading checkpoints.
 
 <details>
-<summary>Expand to see the snippet</summary>
+<summary>Running Bunny-v1.0-3B</summary>
 
 ```python
 import torch
