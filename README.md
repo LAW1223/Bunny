@@ -75,7 +75,8 @@ pip install torch transformers accelerate pillow
 Running Bunny-v1.0-2B-zh is also simple.
 <details>
 <summary>Expand to see the snippet</summary>
-```python 
+  
+```python
 import torch
 import transformers
 from transformers import AutoModelForCausalLM, AutoTokenizer
