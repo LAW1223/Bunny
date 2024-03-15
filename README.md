@@ -93,13 +93,13 @@ torch.set_default_device('cpu')  # or 'cuda'
 
 # create model
 model = AutoModelForCausalLM.from_pretrained(
-    '/zhaobai46d/share/bunny/bunny_models/Bunny-v1_0-2B',
+    'BAAI/Bunny-v1_0-2B-zh',
     torch_dtype=torch.float16,
     device_map='auto',
     trust_remote_code=True)
 
 tokenizer = AutoTokenizer.from_pretrained(
-    '/zhaobai46d/share/bunny/bunny_models/Bunny-v1_0-2B',
+    'BAAI/Bunny-v1_0-2B-zh',
     trust_remote_code=True)
 
 # text prompt
