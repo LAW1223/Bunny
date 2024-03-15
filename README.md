@@ -121,6 +121,7 @@ output_ids = model.generate(
 print(tokenizer.decode(output_ids[input_ids.shape[1]:], skip_special_tokens=True).strip())
 ```
 </details>
+
 ### ModelScope
 
 We advise users especially those in Chinese mainland to use ModelScope.
