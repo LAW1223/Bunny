@@ -20,7 +20,7 @@ Bunny is a family of lightweight but powerful multimodal models. It offers multi
 
 ### HuggingFace transformers
 
-Here we show a code snippet to show you how to use [Bunny-v1.0-3B](https://huggingface.co/BAAI/Bunny-v1_0-3B) with HuggingFace transformers:
+We currently support the direct inference of Bunny-v1.0-2B-zh and Bunny-v1.0-3B models. Here we show a code snippet to show you how to use [Bunny-v1.0-3B](https://huggingface.co/BAAI/Bunny-v1_0-3B) with HuggingFace transformers:
 
 ```python
 import torch
