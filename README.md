@@ -126,6 +126,11 @@ print(tokenizer.decode(output_ids[input_ids.shape[1]:], skip_special_tokens=True
 
 We advise users especially those in Chinese mainland to use ModelScope.
 `snapshot_download` can help you solve issues concerning downloading checkpoints.
+Before running the snippet, you need to install the following dependencies:
+
+```shell
+pip install torch modelscope transformers accelerate pillow
+```
 
 <details>
 <summary>Running Bunny-v1.0-3B</summary>
@@ -175,12 +180,6 @@ output_ids = model.generate(
     use_cache=True)[0]
 
 print(tokenizer.decode(output_ids[input_ids.shape[1]:], skip_special_tokens=True).strip())
-```
-
-Before running the snippet, you need to install the following dependencies:
-
-```shell
-pip install torch modelscope transformers accelerate pillow
 ```
 
 </details>
