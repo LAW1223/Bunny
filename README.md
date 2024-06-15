@@ -22,8 +22,8 @@ This repo contains the official evaluation code and dataset for the paper“Seei
 * 2024.06.13 🔥 **MMR benchmark and MMR-data are released!**
 
 ## 📇 Contents
-- [MMR-benchmark](##MMR-benchmark)
-- [Evaluation](##Evaluation)
+- [MMR-benchmark](## ⚖️ MMR-benchmark)
+- [Evaluation](## 🏁 Evaluation)
 - [Leaderboard](##Leaderboard)
 - [MMR-data](##MMR-data)
 - [Training](##Training)
@@ -31,7 +31,7 @@ This repo contains the official evaluation code and dataset for the paper“Seei
 - [License](##license)
 - [Acknowledgement](##acknowledgement)
 
-## ⚖️MMR-benchmark
+## ⚖️ MMR-benchmark
 
 Multimodal Large Language Models (MLLMs) have demonstrated impressive capabilities in visual understanding and reasoning, providing reasonably accurate answers, such as image descriptions. This has spurred extensive research into evaluating MLLMs. Most evaluation benchmarks assume that incorrect answers indicate a lack of understanding of the visual content. However, our findings reveal that, in many cases, MLLMs answer questions incorrectly despite correctly understanding the visual content. This suggests that incorrect answers do not necessarily imply a lack of comprehension but may instead result from a lack of robustness to leading questions.
 
