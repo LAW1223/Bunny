@@ -2,9 +2,9 @@
   Multimodal-Robustness-Benchmark
 </h1>
 
-<div align="center">
+<p align="center">
 📖 [Paper](https://arxiv.org/abs/2402.11530) | 🤖 [Dataset](https://www.modelscope.cn/datasets/BoyaWu10/Bunny-v1.0-data) | 🤗 [Model](https://huggingface.co/BAAI/Bunny-v1_0-3B) 
-</div>
+</p>
 
 This repo contains the official evaluation code and dataset for the paper“Seeing Clearly, Answering Incorrectly: A Multimodal Robustness Benchmark for Evaluating MLLMs on Leading Questions”.
 
