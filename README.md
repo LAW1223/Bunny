@@ -23,7 +23,7 @@ This repo contains the official evaluation code and dataset for the paper“Seei
 
 ## 📇 Contents
 - [MMR-benchmark](#%EF%B8%8Fmmr-benchmark)
-- [Evaluation](#%🏁evaluation)
+- [Evaluation](#-evaluation)
 - [Leaderboard](##Leaderboard)
 - [MMR-data](##MMR-data)
 - [Training](##Training)
