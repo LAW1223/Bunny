@@ -22,8 +22,8 @@ This repo contains the official evaluation code and dataset for the paper“Seei
 * 2024.06.13 🔥 **MMR benchmark and MMR-data are released!**
 
 ## 📇 Contents
-- [MMR-benchmark](## ⚖️ MMR-benchmark)
-- [Evaluation](## 🏁 Evaluation)
+- [MMR-benchmark](##⚖️MMR-benchmark)
+- [Evaluation](##🏁Evaluation)
 - [Leaderboard](##Leaderboard)
 - [MMR-data](##MMR-data)
 - [Training](##Training)
