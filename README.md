@@ -1,6 +1,7 @@
 <p align="center">
-  <b> Multimodal-Robustness-Benchmark </b>
+  <h1><b>Multimodal-Robustness-Benchmark</b></h1>
 </p>
+
 
 <p align="center">
   <img src="./icon.png" alt="Logo" width="350">
