@@ -16,11 +16,11 @@
 
 This repo contains the official evaluation code and dataset for the paper“Seeing Clearly, Answering Incorrectly: A Multimodal Robustness Benchmark for Evaluating MLLMs on Leading Questions”.
 
-## 🚀 News and Updates
+## 📢 News and Updates
 
 * 2024.06.15 🔥 **ArXiv paper is released!**.
 
-## Contents
+## 📇 Contents
 - [MMR-benchmark](#MMR-benchmark)
 - [Evaluation](#Evaluation)
 - [Leaderboard](#Leaderboard)
@@ -30,12 +30,12 @@ This repo contains the official evaluation code and dataset for the paper“Seei
 - [License](#license)
 - [Acknowledgement](#acknowledgement)
 
-## MMR-benchmark
-## Evaluation
-## Leaderboard
-## MMR-data
-## Training
-## Citation
+## ⚖️MMR-benchmark
+## 🏁 Evaluation
+## 🏆 Leaderboard
+## 🚩 MMR-data
+## 🤖 Training
+## 🔗 Citation
 If you find this repository helpful, please cite the paper below.
 
 ```bibtex
@@ -47,10 +47,10 @@ If you find this repository helpful, please cite the paper below.
 }
 ```
 
-## License
+## 🧾 License
 This project utilizes certain datasets and checkpoints that are subject to their respective original licenses. Users must comply with all terms and conditions of these original licenses.
 The content of this project itself is licensed under the [Apache license 2.0](./LICENSE).
 
-## Acknowledgement
+## 📫 Acknowledgement
 
 We build our project based on [LLaVA](https://github.com/haotian-liu/LLaVA): Large Language and Vision Assistant.
