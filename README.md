@@ -1,5 +1,5 @@
-#<p align="center">
-  Multimodal-Robustness-Benchmark
+<p align="center">
+  <h1>Multimodal-Robustness-Benchmark</h1>
 </p>
 
 <p align="center">
