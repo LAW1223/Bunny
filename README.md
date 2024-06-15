@@ -21,10 +21,8 @@ This repo contains the official evaluation code and dataset for the paper“Seei
 - [MMR-data generation](#MMR-datageneration)
 - [Training](#Training)
 - [Citation](#Citation)
-- [Examples](#examples)
-- [Citation](#citation)
-- [Acknowledgement](#acknowledgement)
 - [License](#license)
+- [Acknowledgement](#acknowledgement)
 
 ## MMR-benchmark
 ## Evaluation
