@@ -35,6 +35,9 @@ This repo contains the official evaluation code and dataset for the paper“Seei
 ## 🏆 Leaderboard
 ## 🚩 MMR-data
 ## 🤖 Training
+
+Please refer to [Bunny]([https://github.com/FlagOpen/FlagEmbedding/tree/master/MLVU/evaluation](https://github.com/BAAI-DCAI/Bunny)) for more details.
+
 ## 🔗 Citation
 If you find this repository helpful, please cite the paper below.
 
