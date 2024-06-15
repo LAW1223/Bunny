@@ -1,6 +1,6 @@
-<p align="center">
-  <h1><b>Multimodal-Robustness-Benchmark</b></h1>
-</p>
+<h1 align = "center">
+  Multimodal-Robustness-Benchmark
+</h1>
 
 
 <p align="center">
