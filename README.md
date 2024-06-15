@@ -55,7 +55,7 @@ To enhance MLLMs' understanding capability and robustness, we propose a data con
 
 ## 🤖 Training
 
-Please refer to [Bunny](https://github.com/BAAI-DCAI/Bunny) for more details.
+We build the model based on [Bunny](https://github.com/BAAI-DCAI/Bunny). Please refer to [Bunny](https://github.com/BAAI-DCAI/Bunny) for more details.
 
 ## 🔗 Citation
 If you find this repository helpful, please cite the paper below.
