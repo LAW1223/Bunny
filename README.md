@@ -38,7 +38,7 @@ Multimodal Large Language Models (MLLMs) have demonstrated impressive capabiliti
 To comprehensively measure MLLMs' understanding capability and robustness to leading questions, we introduce a MultiModal Robustness benchmark (MMR). MMR contains paired positive and negative questions across 12 categories, meticulously annotated by humans. We manually construct 300 positive and 300 leading negative questions across three levels: character, attribute, and context. Character-level questions prompt identifying elements like characters or numbers, while attribute-level questions focus on properties such as color, texture, and quantity. Context-level inquiries delve into higher-level concepts like emotions, culture, and common sense. The positive questions aim to evaluate the model's understanding ability, while the misleading ones challenge its resistance to interference.
 
 <p align="center">
-  <img src="./MMA_benchmark.png" alt="Logo" width="350">
+  <img src="./MMA_benchmark.png" alt="Logo"">
 </p>
 
 ## 🏁 Evaluation
