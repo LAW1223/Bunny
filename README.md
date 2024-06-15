@@ -3,7 +3,12 @@
 </h1>
 
 <p align="center">
-📖 [Paper](https://arxiv.org/abs/2402.11530) | 🤖 [Dataset](https://www.modelscope.cn/datasets/BoyaWu10/Bunny-v1.0-data) | 🤗 [Model](https://huggingface.co/BAAI/Bunny-v1_0-3B) 
+    <a href="https://arxiv.org/abs/2406.04264">
+            <img alt="Build" src="http://img.shields.io/badge/cs.CV-arXiv%3A2406.04264-B31B1B.svg">
+    </a>
+    <a href="https://huggingface.co/datasets/BAAI/Multimodal-Robustness-Benchmark">
+        <img alt="Build" src="https://img.shields.io/badge/🤗 Dataset-MLVU Benchmark-yellow">
+    </a>
 </p>
 
 This repo contains the official evaluation code and dataset for the paper“Seeing Clearly, Answering Incorrectly: A Multimodal Robustness Benchmark for Evaluating MLLMs on Leading Questions”.
