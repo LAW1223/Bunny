@@ -31,7 +31,7 @@ This repo contains the official evaluation code and dataset for the paper“Seei
 - [License](##license)
 - [Acknowledgement](##acknowledgement)
 
-## ⚖️ MMR-benchmark
+## ⚖️MMR-benchmark
 
 Multimodal Large Language Models (MLLMs) have demonstrated impressive capabilities in visual understanding and reasoning, providing reasonably accurate answers, such as image descriptions. This has spurred extensive research into evaluating MLLMs. Most evaluation benchmarks assume that incorrect answers indicate a lack of understanding of the visual content. However, our findings reveal that, in many cases, MLLMs answer questions incorrectly despite correctly understanding the visual content. This suggests that incorrect answers do not necessarily imply a lack of comprehension but may instead result from a lack of robustness to leading questions.
 
@@ -41,13 +41,13 @@ To comprehensively measure MLLMs' understanding capability and robustness to lea
   <img src="./MMA_benchmark.png" alt="Logo">
 </p>
 
-## 🏁 Evaluation
+## 🏁Evaluation
 
 Please refer to our [evaluation](https://github.com/FlagOpen/FlagEmbedding/tree/master/MLVU/evaluation) folder for more details.
 
-## 🏆 Leaderboard
+## 🏆Leaderboard
 
-## 🚩 MMR-data
+## 🚩MMR-data
 
 To enhance MLLMs' understanding capability and robustness, we propose a data construction method using GPT-4V to generate paired positive and negative samples for instruction tuning. The method includes three steps: 1) Information extraction. We implicitly and comprehensively extract detailed information from images, including text, object attributes, human characteristics, relationships between objects, relationships between people, events, and overall perception. 2) Instruction tuning data generation. We generate positive samples using the extracted information and construct negative samples that directly contradict the positive ones. 3) Sample filtering. We filter samples through keyword matching to remove those with uncertain answers and redundant phrases.
 
@@ -55,11 +55,11 @@ To enhance MLLMs' understanding capability and robustness, we propose a data con
   <img src="./data_collection.png" alt="Logo">
 </p>
 
-## 🤖 Training
+## 🤖Training
 
 We build the model based on [Bunny](https://github.com/BAAI-DCAI/Bunny). Please refer to [Bunny](https://github.com/BAAI-DCAI/Bunny) for more details.
 
-## 🔗 Citation
+## 🔗Citation
 If you find this repository helpful, please cite the paper below.
 
 ```bibtex
@@ -75,6 +75,6 @@ If you find this repository helpful, please cite the paper below.
 This project utilizes certain datasets and checkpoints that are subject to their respective original licenses. Users must comply with all terms and conditions of these original licenses.
 The content of this project itself is licensed under the [Apache license 2.0](./LICENSE).
 
-## 📫 Acknowledgement
+## 📫Acknowledgement
 
 We build our project based on [LLaVA](https://github.com/haotian-liu/LLaVA): Large Language and Vision Assistant.
