@@ -32,9 +32,15 @@ This repo contains the official evaluation code and dataset for the paper“Seei
 - [Acknowledgement](#acknowledgement)
 
 ## ⚖️MMR-benchmark
+
+Multimodal Large Language Models (MLLMs) have demonstrated impressive capabilities in visual understanding and reasoning, providing reasonably accurate answers, such as image descriptions. This has spurred extensive research into evaluating MLLMs. Most evaluation benchmarks assume that incorrect answers indicate a lack of understanding of the visual content. However, our findings reveal that, in many cases, MLLMs answer questions incorrectly despite correctly understanding the visual content. This suggests that incorrect answers do not necessarily imply a lack of comprehension but may instead result from a lack of robustness to leading questions.
+
 ## 🏁 Evaluation
+
 ## 🏆 Leaderboard
+
 ## 🚩 MMR-data
+
 ## 🤖 Training
 
 Please refer to [Bunny](https://github.com/BAAI-DCAI/Bunny) for more details.
