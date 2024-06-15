@@ -58,7 +58,7 @@ To enhance MLLMs' understanding capability and robustness, we propose a data con
 ## 🤖 Training
 
 - We build the model based on [Bunny](https://github.com/BAAI-DCAI/Bunny). Please refer to [Bunny](https://github.com/BAAI-DCAI/Bunny) for more details.
-- Training details
+- Training details and checkpoints.
   
 | Checkpoint                                                   | Vision Encoder                                               | LLM                                                          | Pretrain lr | Pretrain weights                                             |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | :---------: | ------------------------------------------------------------ |
