@@ -109,11 +109,19 @@ python dataset/data_generation.py \
 - Reformat the JSON
 
 ```shell
-python dataset/data_post_processing.py \
-    --input /path/to/input.json \
-    --output_pos /path/to/output_pos.json \
-    --output_neg /path/to/output_neg.json \
-    --output_merge /path/to/merged_output.json
+python dataset/data_reformat.py \
+      --input /path/to/input.json \
+      --output_pos /path/to/output_pos.json \
+      --output_neg /path/to/output_neg.json \
+      --output_merge /path/to/merged_output.json
+```
+
+- Filter the JSON
+- 
+'''shell
+python dataset/data_filtering.py \
+      --input /path/to/input.json \
+      --output /path/to/output.json
 ```
   
 ## 🤖 Training
