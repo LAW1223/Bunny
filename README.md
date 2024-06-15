@@ -43,6 +43,8 @@ To comprehensively measure MLLMs' understanding capability and robustness to lea
 
 ## 🚩 MMR-data
 
+To enhance MLLMs' understanding capability and robustness, we propose a data construction method using GPT-4V to generate paired positive and negative samples for instruction tuning. The method includes three steps: 1) Information extraction. We implicitly and comprehensively extract detailed information from images, including text, object attributes, human characteristics, relationships between objects, relationships between people, events, and overall perception. 2) Instruction tuning data generation. We generate positive samples using the extracted information and construct negative samples that directly contradict the positive ones. 3) Sample filtering. We filter samples through keyword matching to remove those with uncertain answers and redundant phrases.
+
 ## 🤖 Training
 
 Please refer to [Bunny](https://github.com/BAAI-DCAI/Bunny) for more details.
