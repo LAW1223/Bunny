@@ -7,7 +7,7 @@
             <img alt="Build" src="http://img.shields.io/badge/cs.CV-arXiv%3A2406.04264-B31B1B.svg">
     </a>
     <a href="https://huggingface.co/datasets/BAAI/Multimodal-Robustness-Benchmark">
-        <img alt="Build" src="https://img.shields.io/badge/🤗 Dataset-MLVU Benchmark-yellow">
+        <img alt="Build" src="https://img.shields.io/badge/🤗 Dataset-MMR Benchmark-yellow">
     </a>
 </p>
 
