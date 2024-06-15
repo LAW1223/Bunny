@@ -9,6 +9,9 @@
     <a href="https://huggingface.co/datasets/BAAI/Multimodal-Robustness-Benchmark">
         <img alt="Build" src="https://img.shields.io/badge/🤗 Dataset-MMR Benchmark-yellow">
     </a>
+    <a href="https://huggingface.co/datasets/BAAI/Multimodal-Robustness-Benchmark">
+        <img alt="Build" src="https://img.shields.io/badge/🤗 Model-yellow">
+    </a>
 </p>
 
 This repo contains the official evaluation code and dataset for the paper“Seeing Clearly, Answering Incorrectly: A Multimodal Robustness Benchmark for Evaluating MLLMs on Leading Questions”.
