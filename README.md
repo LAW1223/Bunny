@@ -117,8 +117,8 @@ python dataset/data_reformat.py \
 ```
 
 - Filter the JSON
-- 
-'''shell
+
+```shell
 python dataset/data_filtering.py \
       --input /path/to/input.json \
       --output /path/to/output.json
